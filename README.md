@@ -5,7 +5,7 @@ Native app written in react language and using expo - https://expo.dev/
 the app uses react navigator, provider, and more hooks.
 
 
-Before you will need to download the expo app from Appstore.
+Before you will need to download the expo app from Appstore אם your mobile device.
 You need to import the project to git desktop.
 In the terminal of the repository path register "npm install".
 After "npm start".
