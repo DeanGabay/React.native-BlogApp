@@ -1,6 +1,7 @@
 # React.native-BlogApp
 
-Native app written in react language and using expo - https://expo.dev/ 
+Native app written in react language and using expo - https://expo.dev/
+
 the app uses react navigator, provider, and more hooks.
 
 
