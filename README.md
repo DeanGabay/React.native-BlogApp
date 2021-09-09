@@ -6,4 +6,4 @@ Before you will need to download the expo app from Appstore.
 You need to import the project to git desktop.
 In the terminal of the repository path register "npm install".
 After "npm start".
-Scan the Qr code from the From the page that opens in your browser.
+Scan the Qr code From the page that opens in your browser With your mobile device.
